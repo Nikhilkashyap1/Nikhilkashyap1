@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nikhilkashyap1
 - 👀 I’m interested in nature
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my new project
+- open for questionar
 - 📫 How to reach me nikhil.it.19044@recb.ac.in
 
 <!---
